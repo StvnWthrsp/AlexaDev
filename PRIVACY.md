@@ -1,30 +1,19 @@
-# Privacy Notice
+This privacy policy describes how Steven Weatherspoon ("I", "my") protects your (“you”, “the user”) privacy and your data. Before using any of my Alexa Skills (“my skills”), please read this policy, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
 
-This privacy notice discloses the privacy practices for (website address). This privacy notice applies solely to information collected by this website. It will notify you of the following:
+Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like my skills) and other related
+# Software
 
-    1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
-    2. What choices are available to you regarding the use of your data.
-    3. The security procedures in place to protect the misuse of your information.
-    4. How you can correct any inaccuracies in the information.
+If you use one of my skills you fully agree to this privacy policy.
+# General
 
-## Information Collection, Use, and Sharing
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via Alexa skills, email, or other direct contact from you. We will not sell or rent this information to anyone.
+When you use my skills you have to talk to Alexa. This voice input is sent to Amazon and us where it is used to understand what the skill should do for you. This is absolutely necessary for my service to give you an appropriate answer.
+# Data
 
-    The only information stored by the Alexa Skill "Trivia Party" is the user's provided list of player names.
+I never collect or share personal data with my skills.
 
-Should you contact us, we will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party.
+To improve my services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
 
-## Your Access to and Control Over Information
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address provided at the end of this document:
+For some of my skills it is necessary to save data for you in my databases. This data is only connected to your Alexa-UserId but never to your name or any other personal information and is used only to provide better experiences for repeat users, such as remembering names given.
+# Changes
 
-    1. See what data we have about you, if any.
-    2. Change/correct any data we have about you.
-    3. Have us delete any data we have about you.
-    4. Express any concern you have about our use of your data.
-
-## Security
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
-
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. 
-
-If you feel that we are not abiding by this privacy policy, you should contact us immediately at stvnwthrsp@gmail.com.
+My skills or parts of it may change or be updated at any time. Further, this Privacy Policy might change. You can find a link to this policy on the description page of the skill in the Alexa App or in the Alexa Store. Your continued use of my skill after changes of the Privacy Policy or the skill itself will be seen as your acceptance of both.
